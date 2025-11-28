@@ -1,0 +1,33 @@
+duvidas
+
+1 Por que minha imagem não aparece abrindo pelo live server
+2 Por que não consigo diminuir minha imagem
+3 Como centralizar um titulo usado em um display felx
+
+
+
+
+usar space around para os textos abaixo
+
+
+
+Sou formado em Administração de Empresas pela Universidade Veiga de Almeida. Ao longo da minha trajetória
+            profissional, atuei em escritórios nas áreas administrativa e financeira. Atualmente, sou militar do Exército Brasileiro,
+            desempenhando funções administrativas que reforçam minha capacidade de organização, disciplina, liderança e
+            trabalho em equipe. Essa vivência ampliou minhas habilidades de resolução de problemas em ambientes que exigem precisão
+            e responsabilidade.
+
+
+Sou estudante de desenvolvimento front-end com foco em HTML, CSS e JavaScript, dedicado a transformar ideias
+            em interfaces web funcionais e responsivas. Meu objetivo é aplicar meu conhecimento técnico em projetos
+            reais, buscando oportunidade para crescer na área de desenvolvimento.
+        
+
+
+iten:hover{
+background-color: black;
+color: #fff;
+
+falar algo sobre responsividade no portóflio
+
+pesquisar mais sobre z index (é interessante quando queremos sobrepor um elemento sobre outro.
