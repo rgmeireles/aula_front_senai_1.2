@@ -1,5 +1,7 @@
-.cabeçalho{
-    padding: 2px;
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+
+#cabecalho{
+    
 }
 
 body{
@@ -29,10 +31,57 @@ body{
 
 
 .menu a:hover {
-    background-color: #4f586d;
+    background-color:#484f5c ;
     transform: translateY(-2px);
 }
 
 a {
     font-family: cursive;
 }
+
+.menu{
+    cursor: pointer;
+}
+
+
+.container-sobre {
+    text-align: center;
+    font-size: 22px;
+    background-color: rgb(216, 235, 174);
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    background-color: #8AA7ED;
+    padding: 20px;
+    font-family: "Bodoni Moda", serif;
+  font-optical-sizing: auto;
+    font-style: normal;
+}    
+
+
+.container-exp {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+    justify-content: space-around;
+    flex-wrap: wrap;
+   
+
+}
+
+#imagem_sobre {
+    width: 28%;
+     border-radius: 8px; 
+     max-width: 600px;
+}
+#texto_exp {
+    text-align: center;
+    width: 40%;
+    background-color: #C3B491;
+    border-radius: 20px;
+    font-size: 22px;
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
